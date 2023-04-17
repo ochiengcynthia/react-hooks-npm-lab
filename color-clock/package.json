@@ -1,0 +1,16 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "this is supposed to show the time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start":"serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.2.0"
+  }
+}
